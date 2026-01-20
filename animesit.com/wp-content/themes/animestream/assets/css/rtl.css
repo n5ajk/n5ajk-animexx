@@ -1,0 +1,1135 @@
+blockquote,
+q {
+  border-right: 3px solid #353535;
+}
+.kln a.col {
+  float: right;
+}
+.klnrec .kln {
+  float: right;
+  margin-left: 5px;
+}
+.klnrec .mini {
+  margin-right: 10px;
+}
+.bixbox .kln,
+.singlex {
+  float: right;
+  margin-left: 15px;
+}
+#floatcenter {
+  right: 0;
+  left: 0;
+}
+.mainheader {
+  float: right;
+  margin: 12px 0 12px 30px;
+}
+#main-menu .centernav .logo {
+  float: right;
+  margin-top: 23px;
+  margin-left: 30px;
+}
+#main-menu .dashicons,
+#main-menu ._mi {
+  padding-left: 2px;
+}
+#main-menu ul {
+  float: right;
+}
+#main-menu ul li {
+  float: right;
+}
+#main-menu ul li a {
+  border-right: 0;
+}
+#main-menu ul .menu-item-has-children > a:after {
+  padding-right: 5px;
+  float: left;
+}
+#main-menu ul li ul {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+#main-menu ul li ul li a {
+  text-align: right;
+}
+#main-menu .random {
+  float: left;
+}
+.ms {
+  right: auto;
+  left: 15px;
+}
+#top-menu {
+  float: left;
+  margin-right: 0;
+  margin-left: 15px;
+}
+.searchx {
+  float: right;
+}
+.searchx #form #s {
+  padding-left: 30px;
+  padding-right: 12px;
+}
+.searchx #form #submit {
+  left: 2px;
+  right: auto;
+}
+.searchx #form #submitsearch {
+  right: unset;
+  left: 2px;
+}
+.surprise {
+  float: left;
+  margin-left: 10px;
+}
+.surprise .dashicons {
+  margin-left: 0;
+}
+.headertwo .th > .centernav > header {
+  margin-left: 25px;
+}
+.headertwo .th .searchx {
+  margin: 18px 0 13px 15px;
+}
+#menutwo .inmenu > ul > li > ul {
+  left: auto;
+  right: 100%;
+}
+.loop {
+  float: right;
+}
+.slide-content .rating .Sika ANIME-vote span span {
+  right: 0 !important;
+}
+.slidtop .trending .tdb {
+  margin-right: 10px;
+  margin-left: 0;
+}
+.slidtop .trending .tdb .crown {
+  left: 5px;
+}
+.slidtop .trending .tdb .textbg {
+  right: 0;
+}
+.slidtop .trending .tdb .textbg .bghover {
+  text-align: right;
+}
+#header .logo {
+  float: right;
+}
+#header .headads {
+  float: left;
+}
+.recommended {
+  padding-left: 10px;
+}
+.postbody {
+  float: right;
+}
+.releases:after {
+  right: 0;
+  left: auto;
+}
+.releases .vl {
+  float: left;
+  margin-left: -3px;
+}
+.postbody .ldr .outbx {
+  float: right;
+}
+.postbody .box .rld h2 {
+  right: 0;
+}
+.postbody .boxed .left {
+  float: right;
+  margin-left: 10px;
+}
+.postbody .boxed .right .lts {
+  float: left;
+}
+.postbody .boxed .right .lts ul li .thumb {
+  float: right;
+}
+.postbody .boxed .right .lts ul li .dtl {
+  float: left;
+}
+.listupd .lexa .thumb {
+  float: right;
+  margin-left: 15px;
+}
+.listupd .utao {
+  float: right;
+}
+.listupd .utao .uta .imgu {
+  float: right;
+  margin-left: 10px;
+}
+.listupd .utao .uta .imgu .hot {
+  right: 3px;
+  left: auto;
+}
+.listupd .utao .uta .imgu .new {
+  left: 3px;
+  right: auto;
+}
+.listupd .utao .uta .luf ul {
+  padding-right: 15px;
+  padding-left: 0;
+}
+.listupd .utao .uta .luf ul li a {
+  float: right;
+}
+.listupd .utao .uta .luf ul li span {
+  float: left;
+}
+.bs {
+  float: right;
+}
+.bs .bsx .limit .t .type {
+  margin-right: 5px;
+  float: right;
+}
+.bs .bsx .limit .t .ept {
+  margin-left: 5px;
+  float: left;
+}
+.bs .bsx .limit .b .bt .status span {
+  padding: 2px 8px 2px 6px;
+}
+.bs .bsx .limit .bt span.epx {
+  float: right;
+  margin-right: 10px;
+}
+.bs .bsx .limit .bt span.sb {
+  float: left;
+  margin-right: 0;
+  margin-left: 5px;
+}
+.bs .bsx .limit .ply .dashicons {
+  right: 50%;
+  margin-right: -20px;
+}
+.bs .bsx .limit .status {
+  left: unset;
+  right: -34%;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+.bs .bsx .limit .hot {
+  left: 3px;
+}
+.bs .bsx .adds .rating .rtg {
+  float: right;
+}
+.bs .bsx .adds .rating i {
+  float: left;
+  margin-left: 2px;
+}
+#main-menu ul li a:hover:before {
+  right: 0;
+}
+#main-menu .surprise .dashicons {
+  float: right;
+}
+.bs .bsx .limit .type {
+  right: 5px;
+  left: auto;
+}
+.bs .bsx .rating-prc .rtp .rtb {
+  margin-left: 5px;
+  margin-right: 0;
+}
+ul.taxindex li a i {
+  float: left;
+}
+.bigblogt span a {
+  margin-right: 10px;
+}
+.Sika ANIMEinfo .left {
+  float: right;
+  padding-left: 5px;
+  margin-left: 5px;
+  border-left: 1px solid #eaeaea;
+}
+.Sika ANIMEinfo .left img {
+  float: right;
+  margin-left: 10px;
+}
+.Sika ANIMEinfo .right {
+  float: left;
+}
+.Sika ANIMEinfo .right .related li .border {
+  float: right;
+}
+.Sika ANIMEinfo .right .related li .rights {
+  margin-right: 50px;
+}
+#shadow {
+  right: 0;
+}
+.meta img {
+  float: right;
+  margin-left: 10px;
+}
+.meta .epx .lg {
+  padding-right: 0.75em;
+  padding-left: 0.75em;
+}
+.sosmed {
+  left: 10px;
+}
+.sosmed span {
+  margin-left: 3px;
+}
+.dlbox ul li.head span {
+  border-left: 1px solid #e5e5e5;
+  margin-left: 3px;
+}
+.dlbox ul li {
+  border-right: 1px solid #f1f1f1;
+}
+.dlbox ul li span {
+  margin-left: 3px;
+  border-left: 1px solid #e5e5e5;
+}
+.listo .bx .imgx {
+  float: right;
+}
+.listo .bx .inx {
+  padding-right: 15px;
+}
+.mirc .mirror {
+  float: right;
+}
+.mirc .lightSwitcher {
+  float: left;
+}
+.nextprev .prev {
+  float: right;
+}
+.nextprev .next {
+  float: left;
+}
+.chnav.selectchp .npv {
+  float: left;
+}
+.chnav.selectchp .slc {
+  float: right;
+  margin-right: 10px;
+}
+.chnav .dlx {
+  float: left;
+}
+.chnav .dlx a {
+  margin-right: 5px;
+}
+.chnav.selectchp .npv .nextprev {
+  margin-right: 5px;
+}
+.chnav .l {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0;
+}
+.chnav .r {
+  float: left;
+  margin-right: 10px;
+  margin-left: 0;
+}
+.nextprev a[rel="next"] {
+  margin-left: 10px;
+}
+.readingnav {
+  right: 0;
+}
+.readingnav.rnavbot .readingnavbot .readingoption .l {
+  float: right;
+}
+.readingnav.rnavbot .readingnavbot .readingoption .nextprev {
+  float: left;
+}
+.readingnav.rnavbot .readingnavbot .readingoption .selectorx.l {
+  margin-left: 10px;
+}
+.readingnav.rnavbot .readingnavbot .readingoption .nextprev a[rel="prev"] {
+  margin-left: 10px;
+}
+.side.infomanga .imgprop {
+  float: right;
+  margin-left: 5px;
+}
+.side.infomanga .imgprop img {
+  float: right;
+}
+.side.infomanga table.listinfo tr th {
+  text-align: right;
+}
+.side.infomanga table.listinfo tr td {
+  padding: 3px 0 3px 10px;
+}
+.Sika ANIMEfull .bigcover .ime a.lnk {
+  right: 0;
+}
+.Sika ANIMEfull .bigcover:before {
+  right: 0;
+  left: 0;
+}
+.bigcontent {
+  padding-right: 215px;
+  padding-left: 0;
+}
+.socialts a {
+  margin-left: 2px;
+}
+.socialts a i {
+  padding-right: 6px;
+  padding-left: 4px;
+}
+.socialts a span {
+  padding-left: 6px;
+}
+.bigcontent .infox .spe span {
+  padding-right: 14px;
+}
+.bigcontent .infox .spe span:before {
+  right: 0;
+}
+.bigcontent .thumbook {
+  right: 16px;
+}
+.rating-prc .rtp {
+  float: right;
+}
+.rating-prc .rtp .rtb:before {
+  right: 0;
+}
+.rating-prc .rtp .rtb span {
+  right: 0;
+}
+.rating-prc .rtp .rtb span:before {
+  right: 0;
+}
+.rating-prc .num {
+  float: left;
+}
+.bigcontent .infox .wd-full .mgen a {
+  margin-left: 3px;
+}
+.imptdt i,
+.imptdt a {
+  float: left;
+}
+.delmark {
+  left: 0;
+  border-bottom-right-radius: 5px;
+}
+.lastend .inepcx {
+  float: right;
+}
+.bxcl ul li .rg .lch {
+  float: right;
+}
+.bxcl ul li .rg .dlx {
+  left: 10px;
+}
+.bxcl ul li span.dt {
+  float: left;
+}
+.bxcl ul li span.dt a {
+  margin-right: 7px;
+  float: right;
+}
+.bxcl ul li .eph-num {
+  float: right;
+}
+.bxcl ul li .dt {
+  float: left;
+  margin-left: 5px;
+}
+.bloglist .bl .l {
+  float: right;
+}
+.bloglist .bl .r {
+  padding-right: 10px;
+  text-align: left;
+}
+.genres li {
+  margin-right: 25px;
+  float: right;
+}
+.advancedsearch .quickfilter .filters .filter ul {
+  left: 0;
+  right: 0;
+}
+.advancedsearch .quickfilter .filters .filter ul.dropdown-menu.c1 li {
+  float: right;
+}
+.advancedsearch .quickfilter .filters .filter ul.dropdown-menu.c1 {
+  right: 0;
+}
+.genx {
+  padding-right: 17px;
+  float: right;
+}
+.checkmark {
+  right: 0;
+}
+.genx .checkmark:after {
+  right: 2px;
+  border: solid #28a745;
+  border-width: 0 0 3px 3px;
+  -webkit-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+.radiox {
+  padding-right: 18px;
+  margin-left: 15px;
+}
+.checkmarkx {
+  right: 0;
+}
+.radiox .checkmarkx:after {
+  right: 3.5px;
+}
+.modex {
+  text-align: left;
+}
+.other-opts .modex {
+  float: left;
+}
+.soralist ul li {
+  margin-right: 15px;
+  margin-left: 0;
+  float: right;
+}
+.archx .arche .imgx {
+  float: right;
+  margin-left: 15px;
+}
+.archx .arche .imgx span {
+  right: 0;
+}
+.archx .arche .inx span b {
+  float: right;
+}
+.seriestitle .score {
+  float: left;
+}
+.infseries img {
+  float: right;
+  margin-left: 10px;
+}
+.infseries .right .deskrip {
+  margin-right: 168px;
+}
+#sidebar {
+  float: left;
+}
+.quickfilter .filters .filter {
+  float: right;
+}
+.quickfilter .filters .filter ul {
+  left: 0;
+  right: auto;
+  text-align: right;
+}
+.quickfilter .filters .filter ul li {
+  float: right;
+}
+.quickfilter .filters .filter ul li input + label:before,
+.quickfilter .filters .filter ul li input:not(:checked) + label:before {
+  right: 0;
+  margin-left: 5px;
+}
+.quickfilter .filters .filter ul li input:checked + label:before {
+  right: 2px;
+  left: auto;
+  border: solid #28a745;
+  border-width: 0 3px 3px 0;
+}
+.quickfilter .filters .filter ul.dropdown-menu.c1 {
+  float: left;
+}
+#sidebar .section .ts-wpop-series-gen .ts-wpop-nav-tabs li {
+  float: right;
+}
+.bloglist .blogbox {
+  float: right;
+}
+.blogpost .entry-content .alignright {
+  float: left;
+  margin-right: 15px;
+}
+.blogpost .entry-header .entry-meta .far,
+.blogpost .entry-header .entry-meta .fa {
+  margin-left: 3px;
+}
+.serieslist ul li .ctr {
+  right: 15px;
+}
+.serieslist.pop ul li {
+  padding-right: 55px;
+  padding-left: 15px;
+}
+.serieslist ul li .imgseries {
+  float: right;
+  margin-left: 10px;
+}
+#wpop-items .serieslist ul li .imgseries {
+  margin-right: 5px;
+  margin-left: 10px;
+}
+.serieslist ul li .imgseries img {
+  margin-left: 0;
+}
+.serieslist ul li .leftseries span.bt {
+  float: right;
+}
+.serieslist ul li .leftseries span span.lmt {
+  float: right;
+  margin-left: 3px;
+}
+.serieslist.pop ul li.topone .limit .bw {
+  padding-right: 55px;
+  padding-left: 15px;
+}
+.serieslist .numscore {
+  margin-right: 5px;
+}
+.serieslist .rating .rating-prc {
+  float: right;
+}
+#sidebar .section ul.genre li {
+  float: right;
+}
+#sidebar .section ul.genre:before,
+#sidebar .section ul.genre:after {
+  right: 33.33%;
+}
+#sidebar .section ul.genre:after {
+  right: 66.66%;
+}
+.ltslist li {
+  border-right: 1px solid #eaeaea;
+  border-left: 1px solid #eaeaea;
+}
+.ppr li .bor {
+  float: right;
+}
+.ppr li .right {
+  margin-right: 47px;
+}
+.live-search_result_container .post-thumbnail {
+  margin-left: 10px;
+  float: right;
+}
+.series-gen .nav-tabs li {
+  float: right;
+}
+.ingfo {
+  direction: rtl;
+  text-align: right;
+}
+.ingfo .minginfo span.l {
+  margin-right: 0;
+  margin-left: 15px;
+}
+.ingfo .minginfo span.r {
+  float: left;
+}
+.footer-az {
+  text-align: right;
+}
+.footer-az span.ftaz {
+  padding-left: 20px;
+  padding-right: 0;
+  margin-left: 20px;
+  margin-right: 0;
+  border-left: 1px solid rgba(255, 255, 255, 0.3);
+  border-right: 0;
+}
+.footer-az .az-list li {
+  margin: 0 0 10px 10px;
+}
+.footercopyright .copyright .footer-logo {
+  float: right;
+  margin-left: 20px;
+  margin-right: 0;
+}
+.footercopyright .copyright .txt {
+  float: right;
+  text-align: right;
+}
+.footercopyright .ftnaru {
+  left: 0;
+  right: auto;
+}
+.scrollToTop {
+  left: 15px;
+  right: auto;
+}
+.soraddl .sorattl::after {
+  float: left;
+}
+.soraddl .sorattl::before {
+  float: right;
+}
+.soraddl .soraurl a::before {
+  float: right;
+  margin-left: 3px;
+}
+.comment-list .comment-body .comment-author .avatar {
+  float: right;
+  margin-left: 10px;
+}
+.comment-list .comment-body .reply {
+  float: left;
+}
+.comment-list .children {
+  border-right: 1px solid #312f40;
+  padding-right: 20px;
+}
+p.comment-form-email,
+p.comment-form-author {
+  float: right;
+}
+.separator a {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+#thememode {
+  float: left;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.slider {
+  right: 0;
+  left: 0;
+}
+.slider:before {
+  right: 0;
+}
+input:checked + .slider:before {
+  -webkit-transform: translateX(-20px);
+  -ms-transform: translateX(-20px);
+  transform: translateX(-20px);
+}
+.nextprev {
+  direction: ltr;
+}
+.readingnav.rnavtop .readingnavtop {
+  direction: ltr;
+}
+#sidebar .section {
+  margin: 0;
+  margin-bottom: 18px;
+  margin-right: 15px;
+}
+#gallery.owl-loaded,
+.hpage {
+  direction: initial;
+}
+#readerarea.rdminimal {
+  text-align: right;
+}
+.hotbadge {
+  left: unset;
+  right: 5px;
+}
+.bs .bsx .limit .typez,
+.bs.styletere .bsx .limit .typez {
+  right: unset;
+  left: 5px;
+}
+.bs.styleegg .bsx .egghead .eggmeta .eggepisode {
+  text-align: left;
+}
+.bs.styletere .bsx .epdate .epx {
+  float: right;
+}
+.bs.styletere .bsx .epdate .datex {
+  float: left;
+}
+#sidebar .section .ongoingseries ul li a .l {
+  float: right;
+}
+#sidebar .section .ongoingseries ul li a .r {
+  float: left;
+}
+#sidebar .section .ongoingseries ul li a .l .fas:before {
+  content: "\f104";
+}
+#sidebar .section ul.season li:before {
+  left: unset;
+  right: 0;
+}
+#sidebar .section ul.season li {
+  padding-left: 0;
+  padding-right: 20px;
+}
+#sidebar .section ul.season li span {
+  float: left;
+  margin-left: 10px;
+  margin-right: 0;
+}
+.taxindex li a span.count {
+  float: left;
+}
+.newseason .listseries .card .card-box .card-info .card-info-top .stats .right {
+  right: unset;
+  left: 10px;
+}
+.bigcontent .rt .rating .rating-prc .rtp {
+  float: none;
+}
+.bxcl ul li .epl-sub .status,
+.epcheck .ephead .eph-sub {
+  float: right;
+}
+.bxcl ul li .epl-sub .status {
+  margin-left: 5px;
+  margin-right: 0;
+}
+#sidebar #mainepisode {
+  margin-right: 15px;
+  margin-left: 0;
+}
+.sosmed {
+  left: 10px;
+  right: unset;
+}
+.meta .year {
+  margin-left: 140px;
+  margin-right: 0;
+}
+select.mirror {
+  float: right;
+}
+.iconx {
+  float: left;
+  margin-left: 0;
+  margin-right: 10px;
+}
+.iconx .icol .far {
+  margin-right: 0;
+  margin-left: 2px;
+}
+.iconx .icol .fa,
+.iconx .icol .fas {
+  margin-left: 2px;
+  margin-right: 0;
+}
+.naveps.bignav .nvs {
+  direction: initial;
+}
+.single-info.bixbox .infox .spe span:before {
+  left: unset;
+  right: 0;
+}
+.single-info.bixbox .infox .spe span {
+  float: right;
+  padding-right: 14px;
+  padding-left: 0;
+}
+.single-info.bixbox .thumb {
+  float: right;
+  margin-left: 15px;
+  margin-right: 0;
+}
+.single-info.bixbox .infox .rating {
+  right: unset;
+  left: 0;
+}
+.single-info.bixbox .infox .infolimit {
+  margin-left: 120px;
+  margin-right: 0;
+}
+.soraddlx .soraurlx strong {
+  margin-right: 0;
+  margin-left: 5px;
+}
+.soraddlx .soraurlx {
+  padding-left: 8px;
+  padding-right: 0;
+}
+.stylefor .bsx .tt span i {
+  float: left;
+}
+.stylefiv .bsx .thumb,
+.stylenine .bsx .thumb,
+#singlepisode .episodelist ul li .thumbnel,
+#singlepisode .headlist .thumb {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0;
+}
+.stylesix .bsx .thumb {
+  float: right;
+  margin-left: 15px;
+  margin-right: 0;
+}
+.stylesix .bsx .upscore {
+  right: unset;
+  left: 15px;
+}
+.stylesix .bsx .thumb .bt .epx {
+  margin-right: 8px;
+  margin-left: 0;
+}
+.seventh .main-seven .tt .thethumb {
+  float: right;
+  margin-left: 10px;
+  margin-right: 0;
+}
+.darkmode .footer-az span.ftaz {
+  border-right: 0 !important;
+}
+.styletwo .bs .bsx .limit .typez {
+  right: unset;
+  left: 0;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 0;
+}
+.styletwo .bs .bsx .limit .bt .sb {
+  border-top-left-radius: 0;
+  border-top-right-radius: 7px;
+  margin-left: 0;
+}
+.styletwo .bs .bsx .limit .bt .epx {
+  border-top-right-radius: 0;
+  border-top-left-radius: 7px;
+}
+.styletwo .releases .vl {
+  margin-left: 0;
+}
+.mngentwo .centernav .searchx #form #s {
+  padding: 0 1.66rem 0 3.32rem;
+}
+#slidertwo .item .info .watch {
+  float: left;
+}
+#slidertwo .item .info h2,
+#slidertwo .item .info p {
+  margin-right: 0;
+  margin-left: 15.96rem;
+}
+.styletwo .dlbox ul li.head span,
+.styletwo .dlbox ul li span {
+  border: 0;
+}
+.dlbox ul li span.q img {
+  float: right;
+  margin-left: 6px;
+  margin-right: 0;
+}
+.mngentwo .centernav .mainheader {
+  margin: 0;
+  margin-left: 10px;
+}
+.mngentwo .centernav #menutwo {
+  margin-left: 10px;
+  margin-right: 0;
+}
+.mngentwo .centernav .surprise {
+  float: left;
+}
+.mngentwo .centernav .twoscmob {
+  float: left;
+  margin-right: 0;
+  margin-left: 12px;
+}
+.mngentwo .centernav .searchx #form #submitsearch {
+  right: auto;
+  left: 2px;
+}
+.slidtop .slide-content .poster {
+  float: left;
+  margin-left: 0;
+  margin-right: 20px;
+}
+.slidtop .slide-content .info-left {
+  text-align: right;
+}
+.slidtop .slide-content .rating {
+  float: right;
+  margin-left: 0;
+  margin-right: -9px;
+}
+.slidtop .slide-content .ellipsis {
+  max-width: unset;
+}
+.slidtop .slide-content .cast span {
+  display: inline-block;
+  margin-right: 0;
+  margin-left: 10px;
+}
+.slidtop .slide-content .extras div {
+  display: block;
+  margin-right: 0;
+  margin-left: 10px;
+  max-width: 100%;
+  float: right;
+}
+.slidtop .slide-content .extras {
+  overflow: hidden;
+}
+.slidtop .slide-content .rating .Sika ANIME-vote {
+  margin-right: 0;
+  margin-left: 8px;
+}
+.slidtop .slide-content .excerpt {
+  margin-top: 10px;
+}
+@media only screen and (max-width: 978px) {
+  .topmobile {
+    float: left;
+    margin-left: 10px;
+    margin-right: 0;
+  }
+  #top-menu.topmobshow {
+    left: 10px;
+    right: auto;
+  }
+}
+@media only screen and (max-width: 900px) {
+  #sidebar .section ul.genre li {
+    float: right;
+  }
+}
+@media only screen and (max-width: 880px) {
+  .postbody,
+  #sidebar {
+    float: none;
+  }
+  .quickfilter .filters .filter ul,
+  .quickfilter .filters .filter ul.dropdown-menu.c1 {
+    left: 0;
+    right: auto;
+  }
+  .quickfilter .filters .filter ul.dropdown-menu.c1 li {
+    float: right;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .mainheader {
+    margin: 0;
+  }
+  #sidebar .section {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  div#live-search_sb {
+    right: auto;
+    left: auto;
+  }
+  #main-menu {
+    right: 0;
+    left: 0;
+  }
+  #main-menu ul,
+  #main-menu ul li,
+  .surprise,
+  .footercopyright .copyright .footer-logo,
+  .footercopyright .copyright .txt {
+    float: none;
+  }
+  .footercopyright .copyright .footer-logo {
+    margin: 0;
+  }
+  .footercopyright .copyright .txt {
+    text-align: center;
+  }
+  #main-menu ul li a,
+  #main-menu ul li ul li a {
+    text-align: right;
+  }
+  #thememode {
+    margin-left: 8px;
+  }
+  .shme {
+    float: right;
+  }
+  .srcmob {
+    float: left;
+  }
+  .srcmob.srccls {
+    right: unset;
+    left: 8px;
+  }
+}
+@media only screen and (max-width: 695px) {
+  .bigcontent .thumb {
+    right: auto;
+  }
+  .bigcontent .infox {
+    padding-right: 0;
+  }
+  .bigcontent .thumbook {
+    right: auto;
+    left: auto;
+  }
+  .bigcontent {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
+}
+@media only screen and (max-width: 670px) {
+  .bs {
+    float: right;
+  }
+}
+@media only screen and (max-width: 650px) {
+  .side.infomanga .imgprop {
+    margin-left: 0;
+  }
+  .side.infomanga table.listinfo tr th {
+    text-align: left;
+  }
+  .klnrec .kln {
+    margin-left: 0;
+  }
+  .chnav.ctop .navrig .mirror,
+  .chnav.ctop .navrig .readingmode {
+    float: right;
+  }
+}
+@media only screen and (max-width: 590px) {
+  .iconx {
+    float: left;
+  }
+}
+@media only screen and (max-width: 570px) {
+  .postbody .ldr .outbx {
+    float: right;
+  }
+  .soralist ul li {
+    margin-right: 15px;
+    margin-left: 0;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .postbody .ldr .outbx {
+    float: right;
+  }
+  .listupd .lexa .thumb {
+    margin-left: 0;
+  }
+  .listupd .utao {
+    float: none;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .headpost,
+  #content.readercontent .bixbox,
+  #content.readercontent .chdesc,
+  .chnav,
+  #content.readercontent .chaptertags {
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+}

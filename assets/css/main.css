@@ -1,0 +1,26 @@
+
+body {
+    margin: 0;
+    font-family: 'Cairo', 'Tajawal', Arial, sans-serif;
+    background: #0e0e0e;
+    color: #f5f5f5;
+}
+a { color: #e63946; text-decoration: none; }
+.navbar {
+    background: #111;
+    display: flex;
+    align-items: center;
+    padding: 12px 24px;
+}
+.navbar img { height: 42px; margin-right: 12px; }
+.navbar .title {
+    font-size: 22px;
+    font-weight: bold;
+}
+.footer {
+    background: #111;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 40px;
+}
